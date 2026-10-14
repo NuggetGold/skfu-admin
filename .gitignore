@@ -1,0 +1,10 @@
+﻿bin/
+obj/
+.vs/
+*.db
+*.db-wal
+*.db-shm
+.env
+*.pem
+*.key
+backups/
